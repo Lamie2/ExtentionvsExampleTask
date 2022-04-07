@@ -1,5 +1,0 @@
-C:\Users\User\source\repos\ExampleTask07\ExampleTask07\obj\Debug\netcoreapp3.1\ExampleTask07.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\ExampleTask07\ExampleTask07\obj\Debug\netcoreapp3.1\ExampleTask07.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\source\repos\ExampleTask07\ExampleTask07\obj\Debug\netcoreapp3.1\ExampleTask07.AssemblyInfoInputs.cache
-C:\Users\User\source\repos\ExampleTask07\ExampleTask07\obj\Debug\netcoreapp3.1\ExampleTask07.AssemblyInfo.cs
-C:\Users\User\source\repos\ExampleTask07\ExampleTask07\obj\Debug\netcoreapp3.1\ExampleTask07.csproj.CoreCompileInputs.cache
