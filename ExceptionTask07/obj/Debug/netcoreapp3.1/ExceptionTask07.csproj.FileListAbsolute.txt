@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ExampleTask07\ExceptionTask07\bin\Debug\netcoreapp3.1\ExceptionTask07.exe
+C:\Users\User\source\repos\ExampleTask07\ExceptionTask07\bin\Debug\netcoreapp3.1\ExceptionTask07.deps.json
+C:\Users\User\source\repos\ExampleTask07\ExceptionTask07\bin\Debug\netcoreapp3.1\ExceptionTask07.runtimeconfig.json
+C:\Users\User\source\repos\ExampleTask07\ExceptionTask07\bin\Debug\netcoreapp3.1\ExceptionTask07.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampleTask07\ExceptionTask07\bin\Debug\netcoreapp3.1\ExceptionTask07.dll
+C:\Users\User\source\repos\ExampleTask07\ExceptionTask07\bin\Debug\netcoreapp3.1\ExceptionTask07.pdb
+C:\Users\User\source\repos\ExampleTask07\ExceptionTask07\obj\Debug\netcoreapp3.1\ExceptionTask07.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ExampleTask07\ExceptionTask07\obj\Debug\netcoreapp3.1\ExceptionTask07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ExampleTask07\ExceptionTask07\obj\Debug\netcoreapp3.1\ExceptionTask07.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampleTask07\ExceptionTask07\obj\Debug\netcoreapp3.1\ExceptionTask07.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampleTask07\ExceptionTask07\obj\Debug\netcoreapp3.1\ExceptionTask07.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampleTask07\ExceptionTask07\obj\Debug\netcoreapp3.1\ExceptionTask07.dll
+C:\Users\User\source\repos\ExampleTask07\ExceptionTask07\obj\Debug\netcoreapp3.1\ExceptionTask07.pdb
+C:\Users\User\source\repos\ExampleTask07\ExceptionTask07\obj\Debug\netcoreapp3.1\ExceptionTask07.genruntimeconfig.cache
